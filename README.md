@@ -1,0 +1,1 @@
+This is a semantic tool to map CISA NICE cybersecurity tasks, knowledge, and skils, to the corresponding ones (aka KSAT) as implemented in the DoD 8140 framework.
