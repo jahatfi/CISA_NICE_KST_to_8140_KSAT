@@ -1,0 +1,92 @@
+3B 	
+
+Skill in conducting vulnerability scans and recognizing vulnerabilities in information systems and networks.
+	Skill
+10A 	
+
+Skill in conducting application vulnerability assessments.
+	Skill
+10 	
+
+Knowledge of application vulnerabilities.
+	Knowledge
+22 	
+
+* Knowledge of computer networking concepts and protocols, and network security methodologies.
+	Knowledge
+92 	
+
+Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol [TCP] and Internet Protocol [IP], Open System Interconnection Model [OSI], Information Technology Infrastructure Library, current version [ITIL]).
+	Knowledge
+95B 	
+
+Knowledge of penetration testing principles, tools, and techniques, including specialized tools for non-traditional systems and networks (e.g., control systems).
+	Knowledge
+105 	
+
+Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, race conditions, covert channel, replay, return-oriented attacks, malicious code).
+	Knowledge
+108 	
+
+* Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+	Knowledge
+150 	
+
+Knowledge of what constitutes a network attack and the relationship to both threats and vulnerabilities.
+	Knowledge
+225A 	
+
+Skill in the use of penetration testing tools and techniques, including specialized tools for non-traditional systems and networks (e.g., control systems).
+	Skill
+411A 	
+
+Analyze organization’s cybersecurity policies and configurations and evaluate compliance with regulations and organizational directives.
+	Task
+685A 	
+
+Maintain deployable cybersecurity audit toolkit (e.g., specialized cyber defense software and hardware) to support cybersecurity audit missions.
+	Task
+692 	
+
+Maintain knowledge of applicable cyber defense policies, regulations, and compliance documents specifically related to cyber defense auditing.
+	Task
+784 	
+
+Prepare audit reports that identify technical and procedural findings, and provide recommended remediation strategies/solutions.
+	Task
+922B 	
+
+Skill in using network analysis tools, including specialized tools for non-traditional systems and networks (e.g., control systems), to identify vulnerabilities.​
+	Skill
+940B 	
+
+Perform technical (evaluation of technology) and non-technical (evaluation of people and operations) risk and vulnerability assessments of relevant technology focus areas (e.g., local computing environment, network and infrastructure, control system and operational environments, enclave boundary, supporting infrastructure, and applications).
+	Task
+1072 	
+
+Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+	Knowledge
+1157 	
+
+* Knowledge of national and international laws, regulations, policies, and ethics as they relate to cybersecurity.
+	Knowledge
+1158 	
+
+* Knowledge of cybersecurity principles.
+	Knowledge
+1159 	
+
+* Knowledge of cyber threats and vulnerabilities.
+	Knowledge
+6900 	
+
+* Knowledge of specific operational impacts of cybersecurity lapses.
+	Knowledge
+6935 	
+
+* Knowledge of cloud computing service models Software as a Service (SaaS), Infrastructure as a Service (IaaS), and Platform as a Service (PaaS).
+	Knowledge
+6938 	
+
+* Knowledge of cloud computing deployment models in private, public, and hybrid environment and the difference between on-premises and off-premises environments.
+	Knowledge
